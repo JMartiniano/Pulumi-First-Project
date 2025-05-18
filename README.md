@@ -1,6 +1,6 @@
  # Meu primeiro projeto Pulumi 
 
- Esse projeto foi inteiramente construído seguindo apenas a documentação oficial da Pulumi <https://www.pulumi.com/docs/iac/get-started/>.
+ Esse projeto foi inteiramente construído seguindo apenas a documentação oficial da Pulumi <https://www.pulumi.com/docs/iac/get-started/>, que usa uma S3 como exemplo, porém adaptei para VPC.
  
  Neste projeto eu apenas configuro minha máquina para conseguir fazer o deploy de uma VPC em minha conta pessoal da AWS usando o Pulumi com Python.
 
