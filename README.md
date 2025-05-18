@@ -12,6 +12,7 @@
    - pulumi
    - pip
    - AWS CLI (e configurei com o user criado para o caso)
+ - Por fim, configurei uma venv. (Quando dei o comando de deploy me apareceu um erro pedindo instalação de alguns pacotes, segui a instrução do erro e deu certo.)
 
  Pronto!
  O passo a passo até o deploy consta na documentação oficial.
