@@ -2,7 +2,7 @@
 
  Esse projeto foi inteiramente construído seguindo apenas a documentação oficial da Pulumi <https://www.pulumi.com/docs/iac/get-started/>.
  
- Neste projeto eu só configura minha máquina para conseguir fazer o deploy de uma VPC em minha conta pessoal da AWS.
+ Neste projeto eu apenas configuro minha máquina para conseguir fazer o deploy de uma VPC em minha conta pessoal da AWS usando o Pulumi com Python.
 
  ## O que eu precesei configurar previamente na minha máquina e conta AWS:
 
@@ -16,6 +16,8 @@
 
  Pronto!
  O passo a passo até o deploy consta na documentação oficial.
+
+ ---
 
  # AWS Python Vpc Pulumi Template
 
